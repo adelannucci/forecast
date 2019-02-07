@@ -6,10 +6,10 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-
 import com.alv.forecast.R
+
+
 import com.alv.forecast.data.ApixuWeatherApiService
-import com.alv.forecast.data.response.CurrentWeatherResponse
 import kotlinx.android.synthetic.main.currrent_weather_fragment.*
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
