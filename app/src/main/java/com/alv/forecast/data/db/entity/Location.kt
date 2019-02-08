@@ -1,4 +1,4 @@
-package com.alv.forecast.data.response
+package com.alv.forecast.data.db.entity
 
 import com.google.gson.annotations.SerializedName
 

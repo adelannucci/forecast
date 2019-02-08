@@ -1,6 +1,6 @@
 package com.alv.forecast.data
 
-import com.alv.forecast.data.response.CurrentWeatherResponse
+import com.alv.forecast.data.network.response.CurrentWeatherResponse
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import kotlinx.coroutines.Deferred
 import okhttp3.Interceptor
