@@ -2,7 +2,7 @@ package com.alv.forecast.data.db.unitlocalized
 
 import androidx.room.ColumnInfo
 
-data class ImperialCurrentWeatherEntry(
+data class MetricCurrentWeatherEntry(
     @ColumnInfo(name = "tempC")
     override val temperature: Double,
     @ColumnInfo(name = "condition_text")
